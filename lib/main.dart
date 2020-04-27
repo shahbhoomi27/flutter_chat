@@ -3,6 +3,7 @@ import 'package:flutter_chat_app/screens/WelcomeScreen.dart';
 import 'package:flutter_chat_app/Constants.dart';
 import 'package:flutter_chat_app/screens/LoginScreen.dart';
 import 'package:flutter_chat_app/screens/RegisterScreen.dart';
+import 'package:flutter_chat_app/screens/ChatScreen.dart';
 
 void main() => runApp(MainPage());
 
@@ -23,6 +24,7 @@ class MainPage extends StatelessWidget {
           WelcomeScreen.id: (context) => WelcomeScreen(),
           RegisterScreen.id: (context) => RegisterScreen(),
           LoginScreen.id: (context) => LoginScreen(),
+          ChatScreen.id: (context) => ChatScreen(),
         });
   }
 }

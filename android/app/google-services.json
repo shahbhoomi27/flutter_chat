@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267917210344",
+    "firebase_url": "https://flutter-chat-d160a.firebaseio.com",
+    "project_id": "flutter-chat-d160a",
+    "storage_bucket": "flutter-chat-d160a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267917210344:android:8c1828947abb9d5e320f5d",
+        "android_client_info": {
+          "package_name": "com.bhoomi.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267917210344-d7l81hh4neg3mkseipqoa92k11p8bn49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEfKMQoKLOXf-FK2mAxPoiLYyKpsWVTUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267917210344-d7l81hh4neg3mkseipqoa92k11p8bn49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
